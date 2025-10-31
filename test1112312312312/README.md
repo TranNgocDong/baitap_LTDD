@@ -1,12 +1,29 @@
 # 🎬 Choose An Animation API
 
-> 🔗 Nguồn: [developer.android.com/develop/ui/compose/animation/choose-api?hl=vi](https://developer.android.com/develop/ui/compose/animation/choose-api?hl=vi)
+> 🔗 **Nguồn tham khảo:** [developer.android.com/develop/ui/compose/animation/choose-api?hl=vi](https://developer.android.com/develop/ui/compose/animation/choose-api?hl=vi)
+
+---
+
+## 🌟 Giới thiệu
+
+Trong lập trình giao diện bằng **Jetpack Compose**, animation (hiệu ứng chuyển động) giúp ứng dụng trở nên **sinh động, trực quan và tự nhiên hơn**.  
+Thay vì các thay đổi xảy ra một cách “đột ngột”, animation cho phép **chuyển đổi trạng thái mềm mại**, từ đó **cải thiện trải nghiệm người dùng** và giúp họ dễ dàng nắm bắt được mối quan hệ giữa các thành phần UI.
+
+---
+
+## 💡 Tác dụng của Animation trong Jetpack Compose
+
+Animation có vai trò quan trọng trong việc:
+- ✨ **Tăng tính thẩm mỹ** cho ứng dụng với hiệu ứng mượt mà.  
+- 👁️ **Hướng dẫn ánh nhìn người dùng**, giúp họ nhận biết thay đổi trong giao diện.  
+- 💬 **Truyền tải trạng thái ứng dụng**, ví dụ: tải dữ liệu, xác nhận hành động, hoặc chuyển màn hình.  
+- ⚙️ **Tạo cảm giác tương tác tự nhiên**, giúp ứng dụng trở nên thân thiện và “có hồn” hơn.
 
 ---
 
 ## 📘 Tổng quan
 
-Hướng dẫn **chọn API Animation phù hợp** trong **Jetpack Compose**, giúp bạn hiểu rõ khi nào nên dùng từng loại animation khác nhau để tạo hiệu ứng mượt mà và trực quan trong ứng dụng Android.
+Hướng dẫn này giúp bạn **chọn API Animation phù hợp** trong **Jetpack Compose**, hiểu rõ khi nào nên sử dụng từng loại animation để tạo hiệu ứng mượt mà và hiệu quả trong ứng dụng Android.
 
 ---
 
@@ -45,6 +62,7 @@ Hướng dẫn **chọn API Animation phù hợp** trong **Jetpack Compose**, gi
 ---
 
 ## 🧪 Demo
+
 ### 🎞️ Preview Animation
 
 <p align="center">
@@ -61,3 +79,14 @@ Hướng dẫn **chọn API Animation phù hợp** trong **Jetpack Compose**, gi
   <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A5.gif" alt="Animation 5">
 </p>
 
+---
+
+## 🧭 Kết luận
+
+Việc lựa chọn đúng API animation giúp bạn:
+- Tối ưu hiệu năng của Compose UI.  
+- Dễ dàng quản lý trạng thái và hiệu ứng.  
+- Tạo trải nghiệm người dùng tinh tế và chuyên nghiệp.  
+
+> ✍️ **Tác giả:** [Trần Ngọc Đông](https://github.com/TranNgocDong)  
+> 💬 *"Animation không chỉ là chuyển động — nó là cách ứng dụng kể chuyện bằng hình ảnh."*
