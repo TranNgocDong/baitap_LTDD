@@ -1,4 +1,4 @@
-# 🎬 Choose An Animation API
+# 🎬 Choose An Animation API.
 
 > 🔗 **Nguồn tham khảo:** [developer.android.com/develop/ui/compose/animation/choose-api?hl=vi](https://developer.android.com/develop/ui/compose/animation/choose-api?hl=vi)
 
