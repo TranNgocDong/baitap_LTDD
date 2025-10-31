@@ -45,3 +45,19 @@ Hướng dẫn **chọn API Animation phù hợp** trong **Jetpack Compose**, gi
 ---
 
 ## 🧪 Demo
+### 🎞️ Preview Animation
+
+<p align="center">
+  <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A1.gif" alt="Animation 1">
+  <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A2.gif" alt="Animation 2">
+</p>
+
+<p align="center">
+  <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A3.gif" alt="Animation 3">
+  <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A4.gif" alt="Animation 4">
+</p>
+
+<p align="center">
+  <img width="200" src="https://github.com/TranNgocDong/baitap_LTDD/raw/TranNgocDong/test1112312312312/A5.gif" alt="Animation 5">
+</p>
+
